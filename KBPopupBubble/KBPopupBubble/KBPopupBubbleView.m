@@ -40,7 +40,7 @@ static const CGFloat kKBDefaultSlideDuration = 0.4f;
 
 #pragma mark - Class Extension
 
-@interface KBPopupBubbleView()
+@interface KBPopupBubbleView()<CAAnimationDelegate>
 
 #pragma mark - Properties
 

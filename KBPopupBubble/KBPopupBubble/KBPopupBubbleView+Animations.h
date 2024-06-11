@@ -28,7 +28,7 @@
 
 #pragma mark - Animation Category
 
-@interface KBPopupBubbleView (Animations)
+@interface KBPopupBubbleView (Animations)<CAAnimationDelegate>
 
 #pragma mark - Methods
 
